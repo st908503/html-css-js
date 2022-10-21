@@ -1,0 +1,138 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    /* background-color: lightgray; */
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.ig-image img{
+    height: 600px;
+    width: 280px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+.ig-container{
+    padding: 0px;
+}
+
+.igc-1{
+    display: grid;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 50px;
+    height: 300px;
+    width: 250px;
+    text-align: center;
+}
+
+.igc-2{
+    margin-top: 10px;
+    border: 1px solid lightgrey;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.app{
+    display: flex;
+  justify-content: center;
+    margin-top: 10px;
+
+}
+
+.d-buttons{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.d-buttons button{
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    margin-top: 40px;
+    margin: 3px;
+    cursor: pointer;
+}
+
+span{
+    color: #458eff;
+    cursor: pointer;
+}
+
+footer ul{
+    margin-top: 50px;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    bottom: 0;
+}
+
+footer ul a{
+    text-decoration: none;
+    margin: 8px;
+    color: grey;
+    font-size: 14px;
+}
+
+.list2{
+    margin-top: 14px;
+}
+
+.inpu1{
+    margin-top: 40px;
+    height: 30px;
+    width: 260px;
+    padding: 2px;
+    margin-bottom: 5px;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+}
+.inpu2{
+    padding: 2px;
+    width: 260px;
+    height: 30px;
+    margin-bottom: 10px;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+}
+.login{
+    width: 270px;
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: #458eff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.c1{
+    color: grey;
+    font-weight: 50px;
+}
+.c2{
+    margin-top: 25px;
+    font-size: 18px;
+    color: #2b3c63;
+}
+.c3{
+    margin-top: 20px;
+}
+
+.ig{
+    font-family: 'Great Vibes', cursive;
+    font-size: 50px;
+}
