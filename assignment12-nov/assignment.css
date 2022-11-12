@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+.top-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 35px;
+    width: 100%;
+}
+
+.left-container{
+    width: 600px;
+    height: 350px;
+    border: 1px solid lightgrey;
+    border-radius: 15px;
+   margin-left: 30px;
+   margin-right: -10px;
+}
+
+.left-container h4{
+    font-weight: 300;
+}
+
+.left-container h2{
+    font-weight: 500;
+    margin-top: -15px;
+    font-size: 22px;
+}
+
+.left-img{
+   border-radius: 15px;
+   position: relative;
+}
+
+
+.left-img-content{
+    position: absolute;
+    top: 60px;
+    margin-left: 20px;
+    color: white;
+    width: 250px;
+}
+
+.btn{
+    margin-top: 100px;
+    padding: 6px 10px;
+    border: none;
+    background-color: white;
+    font-size: 14px;
+    border-radius: 3px;
+}
+
+.right-container{
+    width: 600px;
+    height: 350px;
+    border: 1px solid lightgrey;
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: -10px;
+    
+}
+
+
+.right-img{
+    border-radius: 15px;
+    position: relative;
+ }
+
+ .right-img-content{
+    position: absolute;
+    top: 60px;
+    margin-left: 20px;
+    color: white;
+    width: 250px;
+}
+
+ .right-container h4{
+    font-weight: 300;
+}
+
+.right-container h2{
+    font-weight: 500;
+    margin-top: -15px;
+    font-size: 22px;
+    
+}
+
+.btn{
+    margin-top: 100px;
+    padding: 6px 10px;
+    border: none;
+    background-color: white;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+
+.bottom-container{
+    margin-top: 130px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card1{
+    border: 1px solid lightgrey;
+    width: 380px;
+    height: 200px;
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    margin: -50px;
+
+}
+.card2{
+    border: 1px solid lightgrey;
+    width: 380px;
+    height: 200px;
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    margin: -50px;
+}
+.card3{
+    border: 1px solid lightgrey;
+    width: 380px;
+    height: 200px;
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    margin: -50px;
+}
+
+.card-img{
+    border-radius: 14px;
+    width: ;
+}
+.card-content{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.card-content h4{
+    margin-top: 7px;
+    font-weight: 400;
+}
+
+.card-content h5{
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.card-content span{
+    font-weight: 800;
+}
+
+
+
+
+.cb1{
+    background-color: white;
+    padding: 3px 10px;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+.cb2{
+    background-color: white;
+    padding: 3px 10px;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+
+
+
+
